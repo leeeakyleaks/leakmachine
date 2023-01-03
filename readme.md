@@ -84,7 +84,7 @@ will save it in ur program folder as `profiles.json` and *preview* how it looks 
     "giorgiababy-1",
     "ewazawadza",
     "tamiris-censi",
-}
+]
 ```
 total amount of profile names is **51302**.
 
