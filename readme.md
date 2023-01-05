@@ -83,7 +83,7 @@ will save it in ur program folder as `profiles.json` and *preview* how it looks 
     "tamy-520",
     "giorgiababy-1",
     "ewazawadza",
-    "tamiris-censi",
+    "tamiris-censi"
 ]
 ```
 total amount of profile names is **51302**.
@@ -98,12 +98,12 @@ time not calculated. one profile can contain **~1-2k** of photos.
 
 ### Windows [download👾](https://github.com/leeeakyleaks/leakmachine/files/10339484/get_data.win.zip "Heading link")
 ```bash
-SHA256          1FCD3C7DC848EA1A05D121057245EF169C337FC9AE65D4669C07510B04677186
+SHA256          67AD7845317229F48A24B81DE36419260EF80D05802E120E0429507D899CB5FB
 ```
 
 ### Linux [download👻](https://github.com/leeeakyleaks/leakmachine/releases/download/linux/get_data.linux.7z "Heading link")
 ```bash
-SHA256          5A0F3C07784C1021FEED01C3F34704495F98ED6E8DFFC2F12498F3B9F0800E07
+SHA256          E2D71FC71DFE3A66B41D60A957FB7900095D9D875F20EA213782CE5269DE71E4
 ```
 for security concerns u can check it [here](https://www.virustotal.com/gui/home/upload "here")
 made with 🖤 for fun 🪄✨
